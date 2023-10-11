@@ -1,3 +1,17 @@
+* {
+  word-spacing: 1.5px;
+  /* letter-spacing: 1px; */
+}
+
 a:hover {
   background-color: rgb(157, 186, 224);
+}
+.container-fluid {
+  border-radius: 1rem;
+}
+form {
+  width: 25rem;
+}
+div .sign-up-text {
+  font-weight: bolder;
 }
